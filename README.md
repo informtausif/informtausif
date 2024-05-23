@@ -30,6 +30,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <span><img src="https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel" alt="Laravel" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/WordPress-Ffa1AA?style=for-the-badge&logo=wordpress&logoColor=black" alt="WordPress" title="WordPress" height="25" /></span>
 <span><img src="https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql" alt="Mysql" title="HTML5" height="25" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
