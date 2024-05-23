@@ -4,7 +4,7 @@
   <img src="github.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Haseeb Zulfiqar</h1>
+<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Tausif</h1>
 <h3 align="center">Senior Full Stack Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/haseeb-zulfiqar-5621986b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Haseeb" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    This is ME, Haseeb Zulfiqar<br>
+    This is ME, Tausif<br>
    a seasoned <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px">  with over 8 years of experience. I hold a Bachelor's degree and thrive on crafting dynamic web applications. My expertise spans major backend languages and frameworks, while frontend development is equally my forte. I'm committed to continuous learning, staying ahead in the ever-evolving tech landscape. My problem-solving skills are honed through competitive programming. With a passion for building user-friendly solutions, I bridge innovation and practicality.  Looking forward to collaborating and growing together. Cheers!
 <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="Rocket.gif" width="18px">and
