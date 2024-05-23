@@ -15,7 +15,7 @@
 <p align="center">
   <em>
     This is ME, Tausif<br>
-   a seasoned <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px">  with over 8 years of experience. I hold a Bachelor's degree and thrive on crafting dynamic web applications. My expertise spans major backend languages and frameworks, while frontend development is equally my forte. I'm committed to continuous learning, staying ahead in the ever-evolving tech landscape. My problem-solving skills are honed through competitive programming. With a passion for building user-friendly solutions, I bridge innovation and practicality.  Looking forward to collaborating and growing together. Cheers!
+   a seasoned <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px">  with over 14 years of experience. I hold a Bachelor's degree and thrive on crafting dynamic web applications. My expertise spans major backend languages and frameworks, while frontend development is also in my possession. I'm committed to continuous learning, and staying ahead in the ever-evolving tech landscape. My problem-solving skills are honed through competitive programming. With a passion for building user-friendly solutions, I bridge innovation and practicality.  Looking forward to collaborating and growing together. Cheers!
 <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="Rocket.gif" width="18px">and
     <b>excel</b> <img src="Medal.gif" width="20px">&nbsp.
@@ -36,12 +36,7 @@
 <span><img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="React.js logo" title="React.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js logo" title="next.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Typescript.js-yellow?style=for-the-badge&logo=typescript&logoColor=white" alt="next.js logo" title="next.js" height="25" /></span>
-<span><img
-    src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"
-    alt="Java"
-    title="Java"
-    height="25"
-  /></span>
+
 
 ### <u> Frontend Development Technologies and Tools: </u>
 
@@ -65,7 +60,7 @@
 
 <br>
 
-<span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span>
+<span><img src="https://img.shields.io/badge/php-CC0000?style=for-the-badge&logo=php&logoColor=white" alt="Rails logo" title="PHP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
@@ -148,7 +143,7 @@
 
 ### <u> Mobile App Development Technologies & Tools: </u>
 
-<span><img src="https://img.shields.io/badge/React Native-3880FF?style=for-the-badge&logo=react&logoColor=white" alt="react logo" title="React native" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Flutter-3880FF?style=for-the-badge&logo=flutter&logoColor=white" alt="react logo" title="React native" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Android-3880?style=for-the-badge&logo=android&logoColor=white" alt="Android logo" title="Android native" height="25" /></span>
 &nbsp;
@@ -166,6 +161,10 @@
 ### <u> 3rd Party API's:</u>
 <span>
 <span><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe logo" title="Stripe" height="25" /></span>
+</span>
+&nbsp;
+<span>
+<span><img src="https://img.shields.io/badge/Firebase-C0F0D0?style=for-the-badge&logo=firebase&logoColor=black" alt="Stripe logo" title="Stripe" height="25" /></span>
 </span>
 &nbsp;
 <span>
